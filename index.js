@@ -1,5 +1,6 @@
 const app = "I don't do much."
 
+<<<<<<< HEAD
 var kittens = ["Milo", "Otis", "Garfield"]
 /*function kittens() {
   var kittens = ["Milo", "Otis", "Garfield"]
@@ -40,3 +41,9 @@ function removeLastKitten() {
 function removeFirstKitten() {
   return kittens.slice(1)
 }
+=======
+function kittens() {
+  var kittens = ["Milo", "Otis", "Garfield"]
+}
+
+>>>>>>> dbd64ba8bed430a52af60b14278818167127bdd5
